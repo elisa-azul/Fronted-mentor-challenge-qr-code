@@ -1,5 +1,5 @@
 body{
-    background-color:#005792 ;
+    background-color:#146C94 ;
     text-align: center;
 }
 
@@ -35,10 +35,10 @@ p {
 
 .content{
     margin: 100px auto 200px auto;
-    background-color:#F3ECB0;
+    background-color:#F6F1F1;
     border-radius: 5%;
-    width: 50%;
-    padding-top: 30px;
+    width: 300px;
+    padding: 30px 10px;
     box-shadow: 1px 1px 25px #000000;
    
   
@@ -49,9 +49,9 @@ p {
 
 .qr-code{
     border-radius: 10%;
-    width: 90%;
+    width: 250px;
     margin-top: 8px;
-    border: solid #F3ECB0;
+    border: solid #f7fffe;
  
 
 }
